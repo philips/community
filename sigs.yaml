@@ -2720,6 +2720,9 @@ committees:
     - github: philips
       name: Brandon Philips
       company: Red Hat
+    - github: lukehinds
+      name: Luke Hinds
+      company: Red Hat
     - github: tallclair
       name: Tim Allclair
       company: Google
